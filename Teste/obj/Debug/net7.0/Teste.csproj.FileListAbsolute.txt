@@ -1,0 +1,5 @@
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos/firstApplication/Teste/obj/Debug/net7.0/Teste.csproj.AssemblyReference.cache
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos/firstApplication/Teste/obj/Debug/net7.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos/firstApplication/Teste/obj/Debug/net7.0/Teste.AssemblyInfoInputs.cache
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos/firstApplication/Teste/obj/Debug/net7.0/Teste.AssemblyInfo.cs
+/home/ruan/desktop/Faculdade/testeDeSoftware/Projetos/firstApplication/Teste/obj/Debug/net7.0/Teste.csproj.CoreCompileInputs.cache
